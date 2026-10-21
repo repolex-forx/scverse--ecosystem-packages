@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "ecosystem-packages",
+  "versions": [
+    {
+      "commit": "ae89b293ab8478612603c9deea9fb0f95c5cd495",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:39:36.437997+00:00"
+    }
+  ]
+}
